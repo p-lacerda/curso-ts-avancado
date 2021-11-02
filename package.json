@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/p-lacerda/curso-ts-avancado/issues"
   },
-  "homepage": "https://github.com/p-lacerda/curso-ts-avancado#readme"
+  "homepage": "https://github.com/p-lacerda/curso-ts-avancado#readme",
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  }
 }
